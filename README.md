@@ -20,8 +20,8 @@ The goal of this project is to build a machine learning model that can predict c
 
 ## 🖼️ Project Demo
 
-![Car Price Prediction Demo 1](images/Screenshot (590).png)
-![Car Price Prediction Demo 2](images/Screenshot (591).png)
+![Car Price Prediction Demo 1](https://github.com/maskar122/PredictMyCar/blob/b24ea0584c9a0cc9c18baf7a67d27a0a6cbe64d2/images/Screenshot%20(590).png)
+![Car Price Prediction Demo 2](https://github.com/maskar122/PredictMyCar/blob/b24ea0584c9a0cc9c18baf7a67d27a0a6cbe64d2/images/Screenshot%20(591).png)
 
 
 ## 📂 Project Structure
