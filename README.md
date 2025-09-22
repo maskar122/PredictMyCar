@@ -17,6 +17,13 @@ The goal of this project is to build a machine learning model that can predict c
 3. Evaluation:
    - Metrics used: R² Score, RMSE
 
+
+## 🖼️ Project Demo
+
+![Car Price Prediction Demo 1](images/Screenshot (590).png)
+![Car Price Prediction Demo 2](images/Screenshot (591).png)
+
+
 ## 📂 Project Structure
 car-price-prediction/
 │── data/ # Dataset files
